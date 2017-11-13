@@ -39,3 +39,9 @@ BU_: XXX
 BO_ 513 powertrain: 8 XXX
  SG_ kph : 39|8@0+ (2,0) [0|255] "kph" XXX
  SG_ rpm : 7|16@0+ (0.25,0) [0|65535] "rpm" XXX
+ SG_ gas_pedal_position : 55|16@0+ (1,0) [0|51200] "" XXX
+
+
+
+
+CM_ SG_ 513 gas_pedal_position "Gas Pedal Position range (0 - 0xc800)";
