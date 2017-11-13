@@ -37,5 +37,5 @@ BU_: XXX
 
 
 BO_ 513 powertrain: 8 XXX
- SG_ rpm : 7|16@0+ (0.25,0) [0|65535] "" XXX
  SG_ kph : 39|8@0+ (2,0) [0|255] "kph" XXX
+ SG_ rpm : 7|16@0+ (0.25,0) [0|65535] "rpm" XXX
